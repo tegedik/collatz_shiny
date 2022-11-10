@@ -1,5 +1,5 @@
 # Collatz Conjecture Shiny App
 
-The code for the Collatz Conjecture Shiny App. 
+The code for a simple Shiny app showing Collatz Conjecture at work. 
 
-The link: https://tegedik.shinyapps.io/collatz/
+The Shiny app link: https://tegedik.shinyapps.io/collatz/
